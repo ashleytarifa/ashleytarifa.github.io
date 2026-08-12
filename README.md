@@ -37,11 +37,9 @@ a silly brazilian pixel artist, nerdy web dev and collector of weird consoles :3
 
 ---
 
-![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleytarifa&show_icons=true&theme=tokyonight&hide=prs)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ashleytarifa&show_icons=true&theme=radical)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleytarifa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ashleytarifa&layout=compact&theme=radical)
 
 ---
 
