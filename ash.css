@@ -22,6 +22,12 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
 }
 
 body {
@@ -52,7 +58,6 @@ footer {
   opacity: 0.7;
 }
 
-/* ===== Layout ===== */
 .sidebar {
   background-color: var(--bg);
   position: fixed;
@@ -85,7 +90,6 @@ footer {
   padding: 40px 20px;
 }
 
-/* ===== Cards ===== */
 .top-card,
 .smedia-card,
 .full-card {
@@ -124,7 +128,7 @@ footer {
 .collection {
   width: 100%;
 }
-/* ===== Profile Card ===== */
+
 .profile-card {
   position: relative;
   background-color: var(--bg);
@@ -199,7 +203,6 @@ footer {
   text-decoration: none;
 }
 
-/* ===== Grids ===== */
 .bottom-cards,
 .projects-grid,
 .main-idle {
@@ -209,7 +212,7 @@ footer {
   gap: 1.5rem;
 }
 
-/* ===== Projects ===== */
+
 .projects-section {
   margin-top: 3rem;
   padding: 2rem;
@@ -287,7 +290,6 @@ footer {
   font-weight: bold;
 }
 
-/* ===== Art Gallery ===== */
 .corkboard {
   background: var(--bg);
   border: 3px solid var(--border);
@@ -318,7 +320,6 @@ footer {
   display: block;
 }
 
-/* ===== Utilities ===== */
 #starCanvas {
   position: fixed;
   top: 0;
@@ -353,7 +354,6 @@ footer {
   border: 3px solid var(--border);
 }
 
-/* ===== Mobile ===== */
 @media screen and (max-width: 768px) {
   html, body {
     max-width: 100vw;
@@ -377,7 +377,7 @@ footer {
   }
 
   .profile-card {
-    padding: 1.5rem 1.5rem 80px; /* Extra space at bottom */
+    padding: 1.5rem 1.5rem 80px; 
     text-align: center;
   }
   

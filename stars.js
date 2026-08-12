@@ -10,7 +10,7 @@ resize();
 
 
 const particles = [];
-const total = 200; // rain particles quantity
+const total = 150; // particle quantity
 
 for (let i = 0; i < total; i++) {
   particles.push({
@@ -23,7 +23,7 @@ for (let i = 0; i < total; i++) {
 
 function draw() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = "#ffffff40"; // rain color
+  ctx.fillStyle = "#ffffff80"; // color
 
   for (let p of particles) {
     ctx.beginPath();
