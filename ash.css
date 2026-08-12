@@ -166,7 +166,7 @@ footer {
   background-color: var(--bg);
   margin: 1em 1em 1em 2.5em;
   height: 40px;
-  width: 120px;
+  width: 150px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
 }
