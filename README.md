@@ -1,12 +1,12 @@
-### heyoo! (｡•̀ᴗ-)✧
+### hello! (｡•̀ᴗ-)✧
 
 i'm ashley, also known as ash64 / lunna / liquid_tax  
 a silly brazilian pixel artist, nerdy web dev and collector of weird consoles :3
 
 🌸 i love making cute retro sites, drawing for fun, and diving into indie games  
 🎮 favs: celeste, deltarune, hotline miami, retro classics, and other nerdy stuff  
-🎧 into breakcore, vocaloid, and frutiger aero aesthetics  
-⭐ she/her pronouns
+🎧 into jungle/dnb, vocaloid, and frutiger aero aesthetics  
+⭐ any pronouns
 
 ---
 
@@ -14,11 +14,8 @@ a silly brazilian pixel artist, nerdy web dev and collector of weird consoles :3
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
 
@@ -33,10 +30,10 @@ a silly brazilian pixel artist, nerdy web dev and collector of weird consoles :3
 ---
 
 ### 🐾 check me out here:
-- 🌐 [liquidtax.online](https://liquidtax.online)
-- 💭 @liquid_tax on Discord
+- 🌐 [ashleytarifa.github.io](https://ashleytarifa.github.io)
+- 💭 @ashleytarifa on Discord
 - 🎨 maybe a carrd or art page in the future...? 
-- 💌 working on cool stuff... slowly hehe ;3
+- 💌 working on cool stuff... slowly ;3
 
 ---
 
